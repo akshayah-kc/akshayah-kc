@@ -7,8 +7,6 @@
 - AWS Machine Learning Certified Expert
 - Completed my Internship as Data Science Intern at Data Products LLC
 
-
-  
 <br>
 <h2 align="left"> Certifications </h2>
 <p align="left"> AWS Machine Learning Certified | Machine Learning Specialization taught by Andrew Ng </p>
@@ -21,7 +19,6 @@
 
 - Python
 - R
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
