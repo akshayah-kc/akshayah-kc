@@ -2,14 +2,12 @@
 <p align="center"> Tech enthusiast with 3+ years of Industrial Experience </p>
 <br>
 
-<h2 align="center"> About me! </h2>
+<h2 align="center"> About me </h2>
 
-<p align="center"> I'm an Electronics Engineer from India who slowly but passionately transitioned into a Data Scientist. </p>
 <p align="center"> 
-- Pursuing Master's in Data Science at @SUNYBuffalo
+- Pursuing Master's in Data Science at SUNY Buffalo
 - AWS Machine Learning Certified Expert
 - Completed my Internship as Data Science Intern at Data Products LLC
-- Connect with me @ **kcakshayah@gmail.com**
 </p>
 
   
@@ -17,8 +15,8 @@
 <h2 align="center"> Certifications </h2>
 <p align="center"> AWS Machine Learning Certified | Machine Learning Specialization taught by Andrew Ng </p>
 <p align="center">
-<a href="https://www.credly.com/users/akshayah-karuppayammal-chinnasamy" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-<a href="[https://coursera.org/share/def5253ba110cf5f357713f2ea384ecf](https://www.coursera.org/account/accomplishments/records/VAC3JHS27B7D)" target="_blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a>  
+<a href="https://www.credly.com/users/akshayah-karuppayammal-chinnasamy.09794b55" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+<a href="https://www.coursera.org/account/accomplishments/records/VAC3JHS27B7D" target="_blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a>  
 </p>
 
 
