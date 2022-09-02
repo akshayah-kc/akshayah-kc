@@ -6,7 +6,7 @@
 - Pursuing Master's in Data Science at SUNY Buffalo
 - AWS Machine Learning Certified Expert
 - Completed my Internship as Data Science Intern at Data Products LLC
-- Worked for 3+ years as Programmer Analyst at Cognizant
+- Worked as Programmer Analyst at Cognizant, India
 
 <br>
 <h2 align="left"> Certifications </h2>
