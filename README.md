@@ -1,23 +1,26 @@
-<h1 align="center">Hello there 👋, I amI Akshayah KC</h1>
-<p align="center"> Tech enthusiast with 3+ years of Industrial Experience </p>
+<h1 align="left">Hello there 👋, I am Akshayah KC</h1>
+<p align="left"> Tech enthusiast with 3+ years of Industrial Experience </p>
 <br>
 
-<h2 align="center"> About me </h2>
-
-<p align="center"> 
+ ### About me
 - Pursuing Master's in Data Science at SUNY Buffalo
 - AWS Machine Learning Certified Expert
 - Completed my Internship as Data Science Intern at Data Products LLC
-</p>
+
 
   
 <br>
-<h2 align="center"> Certifications </h2>
-<p align="center"> AWS Machine Learning Certified | Machine Learning Specialization taught by Andrew Ng </p>
-<p align="center">
+<h2 align="left"> Certifications </h2>
+<p align="left"> AWS Machine Learning Certified | Machine Learning Specialization taught by Andrew Ng </p>
+<p align="left">
 <a href="https://www.credly.com/users/akshayah-karuppayammal-chinnasamy.09794b55" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 <a href="https://www.coursera.org/account/accomplishments/records/VAC3JHS27B7D" target="_blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a>  
 </p>
+
+### Coding Languages
+
+- Python
+- R
 
 
 <h3 align="left">Connect with me:</h3>
