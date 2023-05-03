@@ -1,5 +1,5 @@
 <h1 align="left">Hello there 👋, I am Akshayah KC</h1>
-<p align="left"> Tech enthusiast with 3+ years of Industrial Experience </p>
+<p align="left"> Tech enthusiast with 3+ years of Industrial Experience as Programmer Analyst </p>
 <br>
 
  ### About me
